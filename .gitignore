@@ -6,7 +6,9 @@ __pycache__/
 *.pyd
 .env
 
-deployment/cache/
-deployment/models/
+src/cache/
+src/logs/
+src/temp/
+data/models/
 *.safetensors
 *.bin

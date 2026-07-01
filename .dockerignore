@@ -21,21 +21,16 @@ venv/
 # Logs
 *.log
 
-# Graphs
-graphs/
-
-# Model development
-Model development/
+# Reports / graphs
+reports/
+notebooks/
+scripts/
 
 # Temporary
-deployment/temp/
-deployment/logs/
-deployment/test_folder/
+src/temp/
+src/logs/
 
-# Python cache
-deployment/__pycache__/
-
-# README البديل
+# README
 README2.md
 
 # OS
