@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+.venv/
+
+# Jupyter
+*.ipynb
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Git
+.git/
+.gitignore
+
+# Logs
+*.log
+
+# Graphs
+graphs/
+
+# Model development
+Model development/
+
+# Temporary
+deployment/temp/
+deployment/logs/
+deployment/test_folder/
+
+# Python cache
+deployment/__pycache__/
+
+# README البديل
+README2.md
+
+# OS
+Thumbs.db
+.DS_Store
